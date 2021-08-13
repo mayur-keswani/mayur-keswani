@@ -54,7 +54,7 @@ I’m looking forward to collaborate on Projects, Coding Challenges and Hackatho
  <div style="display:block !important;width:100%;height:100%">
     <h2>
 	 <a 
-	 	href="https://smilegupta.hashnode.dev/a-year-at-konfhub" 
+	 	href="https://mayurkeswani.hashnode.dev/dynamically-create-and-validate-form-inputs-using-react-hooks" 
    		title="Dynamically create and validate form inputs using React Hooks">
    	 	<strong>
 			Dynamically create and validate form inputs using React Hooks
@@ -62,7 +62,7 @@ I’m looking forward to collaborate on Projects, Coding Challenges and Hackatho
 	</a>
 	</h2>
 	<div style="display:inline-block;">
-   	  <a href="https://smilegupta.hashnode.dev/a-year-at-konfhub" 
+   	  <a href="https://mayurkeswani.hashnode.dev/dynamically-create-and-validate-form-inputs-using-react-hooks" 
    			title="Dynamically create and validate form inputs using React Hooks">
        	<img 
 	   		src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622186522251/Xj4hr8odj.png" 
@@ -75,6 +75,7 @@ I’m looking forward to collaborate on Projects, Coding Challenges and Hackatho
 	  </div>
 	</div>
  </div>  
+
  <br/><br/>
  <div style="display:block !important;width:100%;height:100%">
    <h2>
