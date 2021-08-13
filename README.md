@@ -114,11 +114,10 @@ Any Project you want me a part of ?
  👀 Ping me on [Twitter](https://twitter.com/Mayur_keswani_)
 
  💌 @mayurkeswani2001@gmail.com
- <a 
+ <a 	
  	href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mayurkeswani2001@gmail.com" 
-	target="_blank"
-	style="margin-left:1rem; background-color:#EEEEEE;padding:0.5rem;color:#444941;text-decoration:none">
-		Say Hii !
+	target="_blank">
+		![](https://img.shields.io/badge/mail%20me-f1f1f1?style=for-the-badge&logo=gmail&logoColor=D44638)
  </a>
 	
 
