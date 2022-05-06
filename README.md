@@ -8,7 +8,7 @@ Besides GitHub, You can find me on [Twitter](https://twitter.com/Mayur_keswani_)
 I’m looking forward to collaborate on Projects, Coding Challenges and Hackathons.
 
 ## My Skills
-![](https://img.shields.io/badge/NextJS-185ADB?style=for-the-badge&logo=next&logoColor=f1f1f1)
+![](https://img.shields.io/badge/NextJS-185ADB?style=for-the-badge&logo=next.js&logoColor=f1f1f1)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-512D6D?style=for-the-badge&logo=redux&logoColor=f1f1f1)
 ![](https://img.shields.io/badge/Mongoose-5F7A61?style=for-the-badge&logo=mongodb&logoColor=#7FC8A9)
